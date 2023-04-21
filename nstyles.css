@@ -1,0 +1,75 @@
+.headerc{
+    background-color: rgb(227, 235, 242);
+    padding-block-start: 5%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: rgb(247, 148, 0);
+    display: flex;
+    align-items: center;
+    height: 140px;
+}
+
+.my-body-class{
+background-color: rgb(238, 243, 248);
+padding-left:5%;
+padding-right: 5%;
+}
+
+.city-font{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: gray;
+}
+
+.hclass{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    color: rgb(43, 160, 164);
+}
+
+.Name-cities{
+    font-size:x-large;
+    font-style: oblique;
+    color: rgb(43, 160, 164);
+}
+
+.button {
+    background-color: rgb(43, 160, 164);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 2px;
+    cursor:cell;
+
+    bottom: 20px;
+    right: 20px;
+  }
+
+  img{
+    display: block;
+    margin: auto;
+  }
+
+  .myfoot{
+    position: fixed;
+    padding-left: 50%;
+    padding-right: 50%;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(255, 119, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+  }
+
+.tbl{
+    background-color: rgb(221, 170, 105);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
